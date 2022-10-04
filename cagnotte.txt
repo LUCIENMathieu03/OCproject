@@ -1,1 +1,1 @@
-cagnotte
+cagnotte :  le montant de la cagnotte est 10 000 euros 
